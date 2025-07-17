@@ -90,4 +90,4 @@ MIT License
 
 ---
 
-*Created by [Your Name], 2025.*
+*Created by Shahar Faradyan, 2025.*
